@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Software Engineering**
 - 📫 How to reach me:
 
-  <a href="jin225675@naver.com" target="_blank"><img src="https://img.shields.io/badge/jin225675@naver.com-green?style=flat-square&logo=naver&logoColor=white"/></a>
-  <a href="jin225675@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jin225675@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:jin225675@naver.com" target="_blank"><img src="https://img.shields.io/badge/jin225675@naver.com-green?style=flat-square&logo=naver&logoColor=white"/></a>
+  <a href="mailto:jin225675@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jin225675@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 - 😄 Pronouns: **I will be a Developer that everyone wants to work with me!!**
