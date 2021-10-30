@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 ### **LANGUAGE**
 
-Most use:
+Most Using:
 
 <a target="_blank"><img src="https://img.shields.io/badge/JAVA-red?style=flat-square&logo=java&logoColor=white"/></a>
 
-Use at least once:
+Used at least once:
 
 <a target="_blank"><img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=C%2b%2b&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/C-gray?style=flat-square&logo=C&logoColor=white"/></a>
