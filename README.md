@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ji-In%20Park&fontSize=90)
 
 - 🔭 I’m currently studying at **Konkuk University** and I'm major in **Computer Science and Engineering**
-- 🌱 I’m currently studying **Flutter** and **Functional Programming in Scala**
+- 🌱 I’m currently studying **Vue** and **Functional Programming in Scala**
 - 📫 How to reach me:
 
   <a href="mailto:jin225675@naver.com" target="_blank"><img src="https://img.shields.io/badge/jin225675@naver.com-green?style=flat-square&logo=naver&logoColor=white"/></a>
