@@ -12,10 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at **Konkuk University** and I'm major in **Computer Science and Engineering**
 - 🌱 I’m currently studying **Vue** and **Functional Programming in Scala**
-- 📫 How to reach me:
-
-  <a href="mailto:jin225675@naver.com" target="_blank"><img src="https://img.shields.io/badge/jin225675@naver.com-green?style=flat-square&logo=naver&logoColor=white"/></a>
-  <a href="mailto:jin225675@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jin225675@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+- 📫 My portfolio: &nbsp; [![Portfolio](https://img.shields.io/badge/notion-Portfolio-blue?logo=notion)](https://ji-in.notion.site/Ji-In-Park-b922b4142dd0486baec4d80c31fbd806)
 
 - 😄 Pronouns: **I will be a Developer that everyone wants to work with me!!**
 
