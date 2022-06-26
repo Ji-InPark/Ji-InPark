@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying at **Konkuk University** and I'm major in **Computer Science and Engineering**
 - 🌱 I’m currently studying **Clean Architecture** and **Spring Boot**
 - 💻 I'm currently working on my personal **Vue.js** project
-- 📫 My portfolio: &nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-Korean-blue?logo=notion)](https://ji-in.notion.site/Ji-In-Park-b922b4142dd0486baec4d80c31fbd806) &nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-English-blue?logo=notion)](https://ji-in.notion.site/Ji-In-Park-d795954ebd8147f0ac2902d5a082c885)
+- 📫 My portfolio: &nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-Korean-blue?logo=notion)](https://ji-in.notion.site/Ji-In-Park-b922b4142dd0486baec4d80c31fbd806)
 
 - 😄 Pronouns: **I will be a Developer that everyone wants to work with me!!**
 
