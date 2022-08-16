@@ -32,10 +32,12 @@ Most Using:
 
 <a target="_blank"><img src="https://img.shields.io/badge/JAVA-red?style=flat-square&logo=java&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/C%23-green?style=flat-square&logo=Csharp&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/JS-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
 Used at least once:
 
 <a target="_blank"><img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=C%2b%2b&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/C-gray?style=flat-square&logo=C&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Kotlin-blue?style=flat-square&logo=kotlin&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Scala-black?style=flat-square&logo=scala&logoColor=red"/></a>
