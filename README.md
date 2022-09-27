@@ -32,7 +32,7 @@ Most Using:
 
 <a target="_blank"><img src="https://img.shields.io/badge/JAVA-red?style=flat-square&logo=java&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/C%23-green?style=flat-square&logo=Csharp&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/JS-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/TS-blue?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 
 Used at least once:
 
@@ -40,4 +40,4 @@ Used at least once:
 <a target="_blank"><img src="https://img.shields.io/badge/C-gray?style=flat-square&logo=C&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Kotlin-blue?style=flat-square&logo=kotlin&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/TS-blue?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/JS-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>
