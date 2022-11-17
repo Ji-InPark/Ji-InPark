@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### **CAREER**
 
-- 👜 <a href = "https://smartdoctor.cc/">ChuneungIT as a Developer (2022.01 ~ )</a>
+- 👜 <a href = "https://smartdoctor.cc/">ChuneungIT as a Developer (2022.01 ~ 2022.11)</a>
 - 📖 <a href = "http://www.konkuk.ac.kr/do/Index.do">Konkuk University CSE (2020.03 ~ )</a>
 
 <br/>
