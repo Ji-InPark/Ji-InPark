@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ji-In%20Park&fontSize=90)
 
 - 🔭 I’m currently studying at **Konkuk University** and I'm major in **Computer Science and Engineering**
-- 🌱 I’m currently studying **Clean Architecture**, **Spring Boot** and **React**
-- 💻 I'm currently working on my personal **React** project
+- 🌱 I’m currently studying **Ruby on Rails**, **Spring Boot** and **React**
+- 💻 I'm currently working on my personal **web** project [K-Agent](https://k-agent.services)
 - 📫 My portfolio: &nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-Korean-blue?logo=notion)](https://ji-in.notion.site/Ji-In-Park-b922b4142dd0486baec4d80c31fbd806)
 
 - 😄 Pronouns: **I will be a Developer that everyone wants to work with me!!**
@@ -42,3 +42,4 @@ Used at least once:
 <a target="_blank"><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Kotlin-blue?style=flat-square&logo=kotlin&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/JS-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Ruby-red?style=flat-square&logo=Ruby&logoColor=white"/></a>
