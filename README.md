@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at **Konkuk University** and I'm major in **Computer Science and Engineering**
 - 🌱 I’m currently studying **Ruby on Rails**, **Spring Boot** and **React**
-- 💻 I'm currently working on my personal **web** project [K-Agent](https://k-agent.services)
+- 💻 I'm currently working on my personal **web** project <a target="_blank" href = "https://k-agent.services">K-Agent</a>
 - 📫 My portfolio: &nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-Korean-blue?logo=notion)](https://ji-in.notion.site/Ji-In-Park-b922b4142dd0486baec4d80c31fbd806)
 
 - 😄 Pronouns: **I will be a Developer that everyone wants to work with me!!**
