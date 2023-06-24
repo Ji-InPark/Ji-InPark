@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ji-In%20Park&fontSize=90)
 
-- 🔭 I’m currently studying at **Konkuk University** and I'm major in **Computer Science and Engineering**
+- 🔭 I’m currently studying at **Konkuk University** and I'm majoring in **Computer Science and Engineering**
 - 🌱 I’m currently studying **Ruby on Rails**, **Spring Boot** and **React**
 - 💻 I'm currently working on my personal **web** project <a href = "https://k-agent.services" target="_blank">K-Agent</a>
 - 📫 My portfolio: &nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-Korean-blue?logo=notion)](https://ji-in.notion.site/Ji-In-Park-b922b4142dd0486baec4d80c31fbd806)
