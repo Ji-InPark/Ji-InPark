@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently studying **Ruby on Rails**, **Spring Boot** and **React**
 - 💻 I'm currently working on my personal **web** project <a href = "https://k-agent.services" target="_blank">K-Agent</a>
 - 📫 My portfolio: &nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-Korean-blue?logo=notion)](https://ji-in.notion.site/Ji-In-Park-b922b4142dd0486baec4d80c31fbd806)
-- 📑 My development diary: &nbsp; [![Development Diary](https://ji-in.notion.site/13b31c1a8d5c48b9a720e67952764a06?pvs=4)
+- 📑 My development diary: &nbsp; [![Development Diary](https://img.shields.io/badge/DevelopmentDiary-Korean-blue?logo=notion)](https://ji-in.notion.site/13b31c1a8d5c48b9a720e67952764a06?pvs=4)
 
 - 😄 Pronouns: **I will be a Developer that everyone wants to work with me!!**
 
