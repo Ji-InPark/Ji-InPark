@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at **Konkuk University** and I'm majoring in **Computer Science and Engineering**
 - 🌱 I’m currently studying **Ruby on Rails**, **Spring Boot** and **React**
-- 💻 I'm currently working on my personal **web** project <a href = "https://k-agent.services" target="_blank">K-Agent</a>
+- 💻 I'm currently working on my personal **web** project <a href = "https://kio-school" target="_blank">Kio School</a> 
+- 🕸️ My Websites: <a href = "https://k-agent.services" target="_blank">K-Agent</a>, <a href = "https://leetcode.click" target="_blank">LCTP</a>, <a href = "https://kio-school" target="_blank">Kio School</a> 
 - 📫 My portfolio: [Portfolio](https://ji-in.notion.site/Ji-In-Park-b922b4142dd0486baec4d80c31fbd806)
 - 📑 My development diary: [Development Diary](https://ji-in.notion.site/13b31c1a8d5c48b9a720e67952764a06?pvs=4)
 
