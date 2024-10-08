@@ -11,13 +11,15 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ji-In%20Park&fontSize=90)
 
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/Ji-InPark"
-  width="600"
-  height="300"
-/>
-</a>
+<div align="center" style="width:100%">
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/Ji-InPark"
+      width="600"
+      height="300"
+    />
+  </a>
+</div>
   
 
 - 🔭 I’m currently studying at **Konkuk University** and I'm majoring in **Computer Science and Engineering**
