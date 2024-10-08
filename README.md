@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/Ji-InPark"
-    width="600"
-    height="250"
-  />
+<img
+  src="https://render.gitanimals.org/farms/Ji-InPark"
+  width="600"
+  height="300"
+/>
 </a>
   
 
