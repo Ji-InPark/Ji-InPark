@@ -10,6 +10,10 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ji-In%20Park&fontSize=90)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/Ji-InPark?pet-id=1" width="1000" height="120"/>
+</a>
+
 - 🔭 I’m currently studying at **Konkuk University** and I'm majoring in **Computer Science and Engineering**
 - 🌱 I’m currently studying **Spring Boot** and **React**
 - 💻 I'm currently working on my personal **web** project <a href = "https://kio-school.com" target="_blank">Kio School</a> 
