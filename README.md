@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ### **CAREER**
 
+- 👜 <a href = "https://www.naverfincorp.com/">NAVER FINANCIAL as a Backend Developer (2026.01 ~ )</a>
 - 👜 <a href = "https://www.cre.ma/">CREMA as a Web Developer (2022.11 ~ 2024.02)</a>
 - 👜 <a href = "https://smartdoctor.cc/">ChuneungIT as a C# Developer (2022.01 ~ 2022.11)</a>
 - 📖 <a href = "http://www.konkuk.ac.kr/do/Index.do">Konkuk University CSE (2020.03 ~ )</a>
