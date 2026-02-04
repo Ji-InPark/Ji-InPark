@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ji-In%20Park&fontSize=90)
 
 
-- 🔭 I’m currently studying at **Konkuk University** and I'm majoring in **Computer Science and Engineering**
+- 🔭 I’m currently working at **[NAVER FINANCIAL](https://www.naverfincorp.com/)**
 - 🌱 I’m currently studying **Spring Boot** and **React**
 - 💻 I'm currently working on my personal **web** project <a href = "https://kio-school.com" target="_blank">Kio School</a> 
 - 🕸️ My Websites: <a href = "https://k-agent.services" target="_blank">K-Agent</a>, <a href = "https://leetcode.click" target="_blank">LCTP</a>, <a href = "https://kio-school.com" target="_blank">KioSchool</a> 
